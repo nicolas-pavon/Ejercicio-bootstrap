@@ -1,0 +1,28 @@
+{
+  "name": "ejercicio-bootstrap",
+  "version": "1.0.0",
+  "description": "Primer Ejercicio",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolas-pavon/Ejercicio-bootstrap.git"
+  },
+  "author": "Nicolas Pavon Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolas-pavon/Ejercicio-bootstrap/issues"
+  },
+  "homepage": "https://github.com/nicolas-pavon/Ejercicio-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
